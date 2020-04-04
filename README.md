@@ -16,7 +16,7 @@ this is an image
 
 
 
-[google](http://www.google.com "(target|_blank)")
+[google](http://www.google.com "{target|_blank}")
 
 
 
