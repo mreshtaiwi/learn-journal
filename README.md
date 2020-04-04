@@ -14,12 +14,6 @@ this is an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-
-[google](http://www.google.com "{target|_blank}")
-
-
-
 :grin: 
 :+1: 
 this is new line
