@@ -15,7 +15,8 @@ this is an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-For example [Google] (http://www.google.com){target="_blank"}
+
+[google](http://www.google.com "(target|_blank)")
 
 
 
